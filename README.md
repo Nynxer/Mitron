@@ -1,7 +1,3 @@
-Certainly! Below is a README template for your "Mitron" project, with the specified link highlighted:
-
----
-
 # Mitron - Video Conferencing
 
 Mitron is a dynamic video conferencing application designed for efficient communication in teams and educational environments. Leveraging modern technologies like the Agora SDK, it ensures high-quality video and audio streams with additional features to enhance collaboration.
